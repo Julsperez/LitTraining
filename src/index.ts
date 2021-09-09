@@ -1,1 +1,2 @@
-import './ts/simple-greeting-ts';
+import './components/simple-greeting-ts'
+import './components/simple-greeting'

@@ -1,5 +1,4 @@
-import { css, html, LitElement } from 'Lit';
-import { customElement, property } from 'lit/decorators';
+import { css, html, LitElement, customElement, property } from 'lit-element';
 
 @customElement('simple-greeting-ts')
 export class SimpleGreetingTs extends LitElement {
