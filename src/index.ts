@@ -1,0 +1,1 @@
+import './ts/simple-greeting-ts';
